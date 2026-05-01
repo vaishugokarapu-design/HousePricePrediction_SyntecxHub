@@ -1,0 +1,11 @@
+price,area,bedrooms,bathrooms,parking,furnishingstatus
+1330000,7420,4,2,2,furnished
+1225000,8960,4,4,3,furnished
+1225000,9960,3,2,2,semi-furnished
+1141000,7500,4,2,3,furnished
+1085000,7420,4,1,2,furnished
+1015000,7500,3,3,2,semi-furnished
+1015000,8580,4,3,2,semi-furnished
+987000,16200,5,3,2,unfurnished
+980000,8100,4,1,2,furnished
+980000,5750,3,2,1,semi-furnished
